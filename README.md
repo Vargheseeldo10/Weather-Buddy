@@ -1,4 +1,4 @@
-#🌦️ Weather Buddy
+# 🌦️ Weather Buddy #
 ##Weather Buddy is a sleek, real-time weather application built using React.js and the OpenWeatherMap API. It allows users to search for any city and get live weather details like temperature, conditions, humidity, and wind speed in a user-friendly interface.
 
 ##📸 Demo
