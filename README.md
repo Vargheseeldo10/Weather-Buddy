@@ -1,10 +1,10 @@
-# 🌦️ Weather Buddy #
-## Weather Buddy is a sleek, real-time weather application built using React.js and the OpenWeatherMap API. It allows users to search for any city and get live weather details like temperature, conditions, humidity, and wind speed in a user-friendly interface. ##
+# 🌦️ Weather Buddy 
+## Weather Buddy is a sleek, real-time weather application built using React.js and the OpenWeatherMap API. It allows users to search for any city and get live weather details like temperature, conditions, humidity, and wind speed in a user-friendly interface. 
 
-## 📸 Demo ##
+## 📸 Demo 
 <!-- Update with actual image path if available -->
 
-## 🚀 Features ##
+## 🚀 Features 
 🔍 Search weather by city name
 
 🌡️ Real-time temperature display in Celsius
@@ -17,40 +17,40 @@
 
 🧭 Simple and clean UI
 
-## 🛠️ Tech Stack ##
+## 🛠️ Tech Stack 
 Frontend: React.js,Tailwind CSS
 
 API: OpenWeatherMap API
 
 Build Tool: Vite
 
-## 🔧 Installation##
-### 1.Clone the repository###
+## 🔧 Installation
+### 1.Clone the repository
 
 ```
 
 git clone https://github.com/Vargheseeldo10/Weather-Buddy.git
 cd Weather-Buddy
 ``` 
-### 2.Install dependencies ###
+### 2.Install dependencies 
 
 ```
 
 npm install
 ```
-### 3.Add your OpenWeatherMap API key###
+### 3.Add your OpenWeatherMap API key
 
 Create a .env file in the root directory and add:
 
 ```
 VITE_API_KEY=your_openweathermap_api_key
 ```
-### 4.Start the development server###
+### 4.Start the development server
 
 ```
 npm run dev
 ```
-## 🧩 Project Structure##
+## 🧩 Project Structure
 ```
 Weather-Buddy/
 ├── public/                         # Static assets (e.g. favicon, index.html)
@@ -86,13 +86,13 @@ Weather-Buddy/
 ├── tailwind.config.js              # TailwindCSS configuration
 └── vite.config.js
 ```
-## 📌 Notes ##
+## 📌 Notes 
 Make sure to sign up for an API key at OpenWeatherMap and place it in your .env file.
 
 The app fetches current weather data for the searched city and updates the UI dynamically.
 
-## ✨ Author##
+## ✨ Author
 Varghese Eldo
 
-## 📄 License##
+## 📄 License
 This project is licensed under the MIT License.
